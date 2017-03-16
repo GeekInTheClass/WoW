@@ -11,7 +11,7 @@
 ## 2.클레스
 
 ## [2.1. 전사](전사.md)  
-# [![전사](images/warrior.jpg)](사제.md)
+# [![전사](images/warrior.jpg)](전사.md)
 ## [2.2. 사제](사제.md)  
 # [![사제](images/priest.jpg)](사제.md) 
 ## [2.3. 도적](도적.md)  
